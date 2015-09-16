@@ -1,7 +1,9 @@
 # Example App List
 A list of application ideas.
 
-Whether you are a beginner learning software development or a professional learning a new language/toolset it is sometimes difficult to think of a piece of software to build. It is very easy to find yourself thinking "that's been done before" or "I cant think of anything original". This project is here to tell you that pretty much everything has been done before, and that's ok, pretty much every application you use wasn't the first of its kind. Do you really think the iPhone was the first smartphone, or Facebook was the first social network?
+Whether you are a beginner learning software development or a professional learning a new language it is sometimes difficult to think of a piece of software to build. It is very easy to find yourself thinking "that's been done before" or "I cant think of anything original". This project is here to tell you that pretty much everything has been done before, and that's ok, almost every application you use wasn't the first of its kind.
+
+Do you really think the iPhone was the first smartphone, or Facebook was the first social network?
 
 Below is a list of application ideas, grouped by difficulty, which have been created many times before and will be recreated many times in the future. I challenge you to take these ideas and create the best version of that application you have ever seen.
 
@@ -9,17 +11,17 @@ Below is a list of application ideas, grouped by difficulty, which have been cre
 
 ### Easy
 
-* Calculator
-* Stop watch
+* [Calculator](projects/calculator.md)
+* [Stopwatch](projects/stopwatch.md)
 
 ### Medium
 
-* Calendar
-* Recipe calculator
+* [Recipe calculator](projects/recipe-calculator.md)
+* [Weather](projects/weather.md)
 
 ### Hard
-* Podcast client
-* Email client
+* [Podcast client](projects/podcast-client.md)
+* [Email client](projects/email-client.md)
 
 ## Contributing
 
